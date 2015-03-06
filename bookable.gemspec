@@ -22,6 +22,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rake"
  
   spec.add_dependency 'jbuilder'
-  spec.add_dependency 'rails_12factor'
 
 end
